@@ -5,17 +5,20 @@ body {
 .chicken {
     color: rgb(124, 0, 58);
     font-family: 'Brush Script MT', Helvetica, serif;
+    font-weight: 900;
 
 }
 
 .beef {
     color: rgb(121, 89, 1);
     font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
 }
 
 .fish {
     color: rgb(44, 119, 1);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 600; 
 }
 
 .main {
