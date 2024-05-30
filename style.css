@@ -5,4 +5,19 @@ body {
 .chicken {
     color: rgb(124, 0, 58);
     font-family: 'Brush Script MT', Helvetica, serif;
+
+}
+
+.beef {
+    color: rgb(121, 89, 1);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.fish {
+    color: rgb(44, 119, 1);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.main {
+    color: purple;
 }
