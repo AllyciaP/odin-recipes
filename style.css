@@ -24,3 +24,15 @@ body {
 .main {
     color: purple;
 }
+
+h1 {
+    background-color: hsla(118, 44%, 42%, 0.514);
+}
+
+h2 {
+    background-color: yellowgreen;
+}
+
+h3 {
+    background-color: rgb(17, 56, 7);
+}
