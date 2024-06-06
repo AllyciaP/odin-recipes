@@ -46,3 +46,21 @@ h2 {
 h3 {
     background-color: rgb(17, 56, 7);
 }
+
+.item1,
+.item2,
+.item3 {
+    display: inline-block;
+    margin: auto;
+}
+
+.item1 {
+    width: 300px;
+}
+
+.item2 {
+    width: 150px;
+}
+.item3 {
+    width: 150px;
+}
