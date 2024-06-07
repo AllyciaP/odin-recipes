@@ -36,7 +36,7 @@ body {
 }
 
 h1 {
-    background-color: hsla(118, 44%, 42%, 0.514);
+    background-color: hsla(182, 42%, 87%, 0.979);
 }
 
 h2 {
@@ -51,18 +51,22 @@ h3 {
     border: 3px, black, double;
     padding: 10px;
 }
-/* .item1 {
-    margin: auto; 
-    width: 300px;
-    border: 1px, black;
+ .item1 {
+    border: 3px, black, solid;
+    background-color: white;
+    padding: 5px;
+    
 }
 
 .item2 {
-    margin: auto;
-    width: 150px;
+    border: 3px, blue, solid;
+    padding: 5px;
 }
 
 .item3 {
-    margin: auto;
-    width: 150px;
-} */
+    border: 3px, gray, solid; 
+} 
+
+.list1 {
+    margin: 10px;
+}
