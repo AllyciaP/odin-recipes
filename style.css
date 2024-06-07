@@ -36,11 +36,11 @@ body {
 }
 
 h1 {
-    background-color: hsla(182, 42%, 87%, 0.979);
+    background-color: hsla(182, 73%, 73%, 0.979);
 }
 
 h2 {
-    background-color: yellowgreen;
+    background-color: rgb(226, 222, 250);
 }
 
 h3 {
@@ -48,13 +48,13 @@ h3 {
 }
 
 .title {
-    border: 3px, black, double;
+    border: 3px, black, dotted;
     padding: 10px;
     color: black;
     text-align: center;
 }
  .item1 {
-    border: 3px, black, solid;
+    border: 3px, blue, solid;
     background-color: white;
     padding: 5px;
     
@@ -67,7 +67,7 @@ h3 {
 }
 
 .item3 {
-    border: 3px, gray, solid; 
+    border: 3px, blue, solid; 
     padding: 5px;
     background-color: white;
 
